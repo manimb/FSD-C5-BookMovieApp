@@ -1,2 +1,2 @@
 # FSD C5 BookMovieApp
- BookMovie React Frontend App
+ BookMovieApp React Frontend App
